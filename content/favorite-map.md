@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Favorite Map
-nav_order: 11
+nav_order: 2.5
 ---
 
 ![This is my favorite map](img/43031178.jpg)
